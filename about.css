@@ -1,0 +1,26 @@
+body{text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(A.png);
+    background-size: cover;
+    color: #A477D0;
+    font-size: 30px;
+    }
+    h1{
+    font-size: 60px;
+    color: #B69FE8;
+    }
+  
+
+    .index {
+        background-color: rgb(145, 163, 255);
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10%;
+    }

@@ -1,0 +1,91 @@
+body{text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(sky.png);
+    background-size: cover;
+    color: #91a3ff;
+    font-size: 22px;
+    }
+    h1{
+    font-size: 70px;
+    }
+
+
+    .science {
+        background-color: rgb(145, 163, 255);
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10%;
+    }
+    
+    
+    .ART {
+        background-color: #91a3ff;
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+       border-radius: 10%;
+       
+    }
+
+
+    .music {
+        background-color: rgb(145, 163, 255);
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10%;
+    }
+    
+    
+    .ET {
+        background-color: rgb(145, 163, 255);
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+       border-radius: 10%;
+       
+    }
+    
+    
+        
+
+    .index {
+        background-color: rgb(145, 163, 255);
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 32px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10%;
+    }
+
+    
